@@ -26,9 +26,11 @@ What I have learnt
 
 SQL is a useful tool to use for queries and data analysis. There are a lot of variation of analysis that can be done. 
 
+
 What I would change
 
 If given the opportunity to be able to solely focus on conducting the queries, instead of having to juggle other happenings in life, more in depth analysis can be carried out. 
+
 
 Challenges faced
 
