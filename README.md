@@ -1,6 +1,6 @@
 # SQL-Analytics-Capstone_Insurance Claim
 
-### Insurance Claim
+### Relational Database and Excel Dashboard
 
 ![Screenshot of dashboard](https://i.imgur.com/2xIywxF.png)
 ![Screenshot of dashboard](https://i.imgur.com/wPXnCkA.png)
