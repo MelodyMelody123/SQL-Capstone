@@ -1,4 +1,4 @@
-# SQL-Analytics-Capstone
+# SQL-Analytics-Capstone_Insurance Claim
 
 ### Insurance Claim
 
